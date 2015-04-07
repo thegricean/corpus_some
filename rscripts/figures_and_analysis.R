@@ -4,7 +4,7 @@
 
 library(Hmisc)
 library(gridExtra)
-library(ggplot)
+library(ggplot2)
 library(bootstrap)
 library(MuMIn)
 library(lme4)
